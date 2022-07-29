@@ -1,3 +1,7 @@
+### 更新简介
+2022-7-29 🎉🎉🎉加入了swagger，不需要postman可以直接进入`http://localhost:8081/doc.html` 在网页端进行调试 \
+2022-7-27 第一版上传
+
 # 工程简介
 相较于上个工程，本工程使用了MyBatisPlus插件，实现了接口绑定，使用更加方便；对象关系映射的改进，效率更高。\
 本工程依旧采用Springboot+MySQL+MyBatisPlus基于maven完善增删改查
